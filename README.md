@@ -6,6 +6,8 @@ DevOps / Cloud engineer based in Spain.
 
   <img src="./profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile details" />
   <img src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Top languages by repo" />
+  <img src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Top languages by commit" />
+  <img src="./profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Commits by hour" />
 
 </div>
 
