@@ -24,7 +24,7 @@ My focus is cloud architecture, cost optimization, migration delivery, and produ
 ## Core stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,datadog,git" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,git" alt="Core skills" />
 </p>
 
 ## Secondary stack
